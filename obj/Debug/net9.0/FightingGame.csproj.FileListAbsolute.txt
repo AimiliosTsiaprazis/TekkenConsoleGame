@@ -1,0 +1,14 @@
+c:\Users\atsia\Desktop\FightingGame\bin\Debug\net9.0\FightingGame.exe
+c:\Users\atsia\Desktop\FightingGame\bin\Debug\net9.0\FightingGame.deps.json
+c:\Users\atsia\Desktop\FightingGame\bin\Debug\net9.0\FightingGame.runtimeconfig.json
+c:\Users\atsia\Desktop\FightingGame\bin\Debug\net9.0\FightingGame.dll
+c:\Users\atsia\Desktop\FightingGame\bin\Debug\net9.0\FightingGame.pdb
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.AssemblyInfoInputs.cache
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.AssemblyInfo.cs
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.csproj.CoreCompileInputs.cache
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.dll
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\refint\FightingGame.dll
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.pdb
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\FightingGame.genruntimeconfig.cache
+c:\Users\atsia\Desktop\FightingGame\obj\Debug\net9.0\ref\FightingGame.dll

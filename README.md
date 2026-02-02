@@ -19,4 +19,6 @@ TekkenConsoleGame is a console-based game inspired by Tekken, built using C# and
 ### Running the Game
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TekkenConsoleGame.git
+ after cloning the repository and installing the requirements if needed then just run
+dotnet run and the game should start
+after that just use the console to navigate
